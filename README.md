@@ -1,4 +1,3 @@
 # Chipathon2023
-IEEE SSCS PICO Chipathion Japanteam BGR 
+IEEE SSCS PICO Chipathion Japanteam  Current Source
 
-.sch & .png
