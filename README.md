@@ -8,7 +8,7 @@ core schematic file: cs_vthref_3ho.sch
 symbol file: cs_vthref_3ho.sym
 
 test bench file: tbdc_cs_vthref_3ho.sch
-<img alt="tbdc_cs_vthref_3ho.sch" src="https://github.com/keropiyo/Chipathon2023/blob/main/tbdc_cs_vthref_3ho_sch.png" width="50%">
+<img alt="tbdc_cs_vthref_3ho.sch" src="https://github.com/keropiyo/Chipathon2023/blob/main/tbdc_cs_vthref_3ho.png" width="50%">
 
 pin list: vdd (3.3 V supply), vss (ground), vb (bias voltage for pMOS current mirror)
 
