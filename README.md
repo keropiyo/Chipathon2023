@@ -8,6 +8,8 @@ core schematic file: cs_vthref_3ho.sch
 
 symbol file: cs_vthref_3ho.sym
 
+<img alt="cs_vthref_3ho.sym" src="https://github.com/keropiyo/Chipathon2023/blob/main/cs_vthref_3ho_sym.png" width="50%">
+
 test bench file: tbdc_cs_vthref_3ho.sch
 
 <img alt="tbdc_cs_vthref_3ho.sch" src="https://github.com/keropiyo/Chipathon2023/blob/main/tbdc_cv_vthref_3ho.png" width="50%">
