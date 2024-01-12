@@ -18,6 +18,6 @@ pin list: vdd (3.3 V supply), vss (ground), vb (bias voltage for pMOS current mi
 
 current: 20 uA
 
-gds file: cs_vthref_3ho.gds
+gds file: cs_vthref_3ho.gds  (width = 41um height = 50um )
 
 <img alt="cs_vthref_3ho.gds" src="https://github.com/keropiyo/Chipathon2023/blob/main/cs_vthref_3ho.png" width="50%">
